@@ -1,4 +1,4 @@
-#QOSF Mentorship Screening Task 3
+# QOSF Mentorship Screening Task 3
 Kaelyn Ferris
 
 Learning by doing: the best way to understand the basics of quantum computation is to implement a quantum circuit simulator. This task is suitable both for people from computer sciences who want to learn about quantum computing, and for people from math/physics who want to exercise coding.
